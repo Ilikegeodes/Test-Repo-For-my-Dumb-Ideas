@@ -1965,4 +1965,3 @@ aaaaaaa
 
 <a name="bottom"></a>
 [Take me to the top](#top)
-</details>
